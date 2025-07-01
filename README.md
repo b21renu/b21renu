@@ -28,72 +28,65 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 ---
 
+<!-- 🛠️ Tools & Technology -->
 
-### 🛠️ Tools & Technology
-<table align="center" class="table table-dark">
+<h3>🚀 Programming Languages</h3>
+<table align="center">
   <tr>
-    <td align="center" width="90">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" width="55" height="55" />
-        <br><b>HTML</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS" width="55" height="55" />
-        <br><b>CSS</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="JavaScript" width="55" height="55" />
-        <br><b>JavaScript</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://tailwindcss.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="Tailwind CSS" width="55" height="55" />
-        <br><b>Tailwind CSS</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://reactjs.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React.js" width="55" height="55" />
-        <br><b>React.js</b>
-      </a>
-    </td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="55"/><br><b>Python</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="55"/><br><b>Java</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=c" width="55"/><br><b>C</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="55"/><br><b>HTML</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="55"/><br><b>CSS</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="55"/><br><b>JavaScript</b></td>
   </tr>
+</table>
+
+<h3>🌐 Web & Backend Frameworks</h3>
+<table align="center">
   <tr>
-    <td align="center" width="90">
-      <a href="https://www.python.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" width="55" height="55" />
-        <br><b>Python</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.java.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="Java" width="55" height="55" />
-        <br><b>Java</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://cloud.google.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecloud" alt="Google Cloud" width="55" height="55" />
-        <br><b>Google Cloud</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://en.cppreference.com/w/c">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="C" width="55" height="55" />
-        <br><b>C</b>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://git-scm.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" width="55" height="55" />
-        <br><b>Git</b>
-      </a>
-    </td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="55"/><br><b>Node.js</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="55"/><br><b>React.js</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=flask" width="55"/><br><b>Flask</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" width="55"/><br><b>Streamlit</b></td>
+  </tr>
+</table>
+
+<h3>🧠 AI, ML & Data Science</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="45"/><br><b>TensorFlow</b></td>
+    <td align="center" width="90"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="45"/><br><b>PyTorch</b></td>
+    <td align="center" width="90"><img src="https://numpy.org/images/logo.svg" width="45"/><br><b>NumPy</b></td>
+    <td align="center" width="90"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="45"/><br><b>Scikit-learn</b></td>
+    <td align="center" width="90"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br><b>Hugging Face</b></td>
+    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/104429135?s=200&v=4" width="45"/><br><b>LangChain</b></td>
+  </tr>
+</table>
+
+<h3>🗄️ Databases</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="55"/><br><b>MongoDB</b></td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" width="90"/><br><b>SQLite</b></td>
+  </tr>
+</table>
+
+<h3>☁️ Cloud & DevOps</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" width="55"/><br><b>AWS</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="55"/><br><b>Docker</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" width="55"/><br><b>GitHub Actions</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="55"/><br><b>Git</b></td>
+  </tr>
+</table>
+
+<h3>📚 Other Technical Concepts</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://img.icons8.com/fluency/48/oop.png" width="45"/><br><b>OOP</b></td>
+    <td align="center" width="90"><img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Networking-computer-network-flat-icons-inmotus-design.png" width="45"/><br><b>Networking</b></td>
   </tr>
 </table>
 
