@@ -69,6 +69,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
   <tr>
     <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="55"/><br><b>MongoDB</b></td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" width="90"/><br><b>SQLite</b></td>
+    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="45"/><br><b>Supabase</b></td>
   </tr>
 </table>
 
@@ -81,15 +82,6 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
     <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="55"/><br><b>Git</b></td>
   </tr>
 </table>
-
-<h3>📚 Other Technical Concepts</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://img.icons8.com/fluency/48/oop.png" width="45"/><br><b>OOP</b></td>
-    <td align="center" width="90"><img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Networking-computer-network-flat-icons-inmotus-design.png" width="45"/><br><b>Networking</b></td>
-  </tr>
-</table>
-
 ---
 
 ### 📈 GITHUB CONTRIBUTION GRAPH:
