@@ -36,15 +36,15 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
     <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="55"/><br><b>Python</b></td>
     <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="55"/><br><b>Java</b></td>
     <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=c" width="55"/><br><b>C</b></td>
-    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="55"/><br><b>HTML</b></td>
-    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="55"/><br><b>CSS</b></td>
-    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="55"/><br><b>JavaScript</b></td>
   </tr>
 </table>
 
 <h3>🌐 Web & Backend Frameworks</h3>
 <table align="center">
   <tr>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="55"/><br><b>HTML</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="55"/><br><b>CSS</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="55"/><br><b>JavaScript</b></td>
     <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="55"/><br><b>Node.js</b></td>
     <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="55"/><br><b>React.js</b></td>
     <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=flask" width="55"/><br><b>Flask</b></td>
