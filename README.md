@@ -96,20 +96,6 @@ Here's a glimpse of my activity and achievements.
 
 
 ---
-### ⌨️ LeetCode Stats:
-<div>
-  <p align="center">
-    <a href="https://leetcode.com/TaeReyy21/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/TaeReyy21/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/TaeReyy21/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="100" width="100" /></a>
-    <a href="https://leetcode.com/TaeReyy21/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="100" width="100" /></a>
-  </p>
-  <p align="center">
-    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/TaeReyy21?theme=radical&font=Nunito&ext=heatmap" />  
-  </p>
-</div>
-
----
 ### 🌟 Let's Connect!
 <div>
   <a href="https://github.com/b21renu" target="_blank">
@@ -125,12 +111,3 @@ Here's a glimpse of my activity and achievements.
 
 
 Feel free to explore my repositories and contributions, and let's build something awesome together!
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-
-
----
