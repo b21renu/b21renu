@@ -93,6 +93,48 @@ Here's a glimpse of my activity and achievements.
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="100" align="center">
+      <a href="https://github.com/b21renu/awesome-project" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/code.png" width="80"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/b21renu/awesome-project" target="_blank">Awesome Project</a></b><br>
+      A web app that helps users manage tasks with AI-powered suggestions.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/b21renu/data-visualizer" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" width="80"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/b21renu/data-visualizer" target="_blank">Data Visualizer</a></b><br>
+      A Python tool for generating beautiful and interactive data charts.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/b21renu/game-bot" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/game-controller.png" width="80"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/b21renu/game-bot" target="_blank">Game Bot</a></b><br>
+      A reinforcement learning bot that plays Chrome Dino automatically.
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
 ### 📈 GITHUB CONTRIBUTION GRAPH:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b21renu&theme=synthwave-84&true&hide_border=true" />
