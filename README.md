@@ -109,9 +109,4 @@ Here's a glimpse of my activity and achievements.
 ---
 
 💌 **Always open to tech discussions, collaborations, or just a friendly hello!**  
-💡 _Fun fact: I can debug faster with coffee in hand ☕_
-
-
-
-
 Feel free to explore my repositories and contributions, and let's build something awesome together!
