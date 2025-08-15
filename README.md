@@ -82,6 +82,17 @@ Here's a glimpse of my activity and achievements.
 
 ---
 
+###  My Projects at a Glance
+
+| Project | Description |
+|--------|-------------|
+| <a href="https://github.com/b21renu/project1" target="_blank"><img src="https://img.icons8.com/color/96/000000/github.png" width="64"/></a> | **[Project 1](https://github.com/b21renu/project1)** – A cool tool that does something awesome, built using Tech X. |
+| <a href="https://github.com/b21renu/project2" target="_blank"><img src="https://img.icons8.com/color/96/000000/python.png" width="64"/></a> | **[Project 2](https://github.com/b21renu/project2)** – A script that solves Y with Python wizardry. |
+| <a href="https://github.com/b21renu/project3" target="_blank"><img src="https://img.icons8.com/color/96/000000/javascript.png" width="64"/></a> | **[Project 3](https://github.com/b21renu/project3)** – A web app that does Z using JS magic. |
+
+
+---
+
 ### 📈 GITHUB CONTRIBUTION GRAPH:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b21renu&theme=synthwave-84&true&hide_border=true" />
