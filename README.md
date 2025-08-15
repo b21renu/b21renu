@@ -9,8 +9,6 @@ Here's a glimpse of my activity and achievements.
 
 ---
 
-![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=b21renu)
-
 ### 🚀 GitHub Stats:
 ![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=b21renu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
 
@@ -18,11 +16,6 @@ Here's a glimpse of my activity and achievements.
 
 ### 🔥 Streak Stats:
 [![Renu's GitHub Streak](https://streak-stats.demolab.com?user=b21renu&theme=radical)](https://git.io/streak-stats)
-
----
-
-### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=b21renu&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -96,18 +89,29 @@ Here's a glimpse of my activity and achievements.
 
 
 ---
-### 🌟 Let's Connect!
-<div>
-  <a href="https://github.com/b21renu" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-</div>
+## 🌟 Let's Connect!
 
-<div>
-  <a href="https://www.linkedin.com/in/renu-bojja/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<p align="center">
+  <a href="https://github.com/b21renu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/renu-bojja/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:renubojja.germany@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://renu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%239B59B6?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+</p>
+
+---
+
+💌 **Always open to tech discussions, collaborations, or just a friendly hello!**  
+💡 _Fun fact: I can debug faster with coffee in hand ☕_
+
+
 
 
 Feel free to explore my repositories and contributions, and let's build something awesome together!
