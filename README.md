@@ -1,11 +1,8 @@
 # 👋 Hello, I'm Renu Bojja
 
-Welcome to my GitHub profile! 🌟  
-I'm passionate about coding, exploring cutting-edge technologies and contributing to open-source projects.   
-Specializing in Generative AI and Large Language Models   
-Here's a glimpse of my activity and achievements.
-
 ### HOW TO REACH ME !! 🌟
+#### PERSONAL MAIL ID : renubojja.germany@gmail.com    
+#### RVU CLG MAIL ID : renub.btech22@rvu.edu.in
 <p align="center">
   <a href="https://github.com/b21renu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
@@ -17,9 +14,6 @@ Here's a glimpse of my activity and achievements.
     <img src="https://img.shields.io/badge/Portfolio-%239B59B6?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </p> 
-
-#### PERSONAL MAIL ID : renubojja.germany@gmail.com    
-#### RVU CLG MAIL ID : renub.btech22@rvu.edu.in
 ---
 
 ### 🚀 GitHub Stats:
