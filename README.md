@@ -1,11 +1,25 @@
 # 👋 Hello, I'm Renu Bojja
 
-![Bar Graph GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
 Welcome to my GitHub profile! 🌟  
 I'm passionate about coding, exploring cutting-edge technologies and contributing to open-source projects.   
 Specializing in Generative AI and Large Language Models   
-Here's a glimpse of my activity and achievements.  
+Here's a glimpse of my activity and achievements.
+
+### HOW TO REACH ME !! 🌟
+<p align="center">
+  <a href="https://github.com/b21renu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/renu-bojja/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:renubojja.germany@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://renu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%239B59B6?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+</p> 
 
 ---
 
@@ -85,25 +99,6 @@ Here's a glimpse of my activity and achievements.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b21renu&theme=synthwave-84&true&hide_border=true" />
 </div>
-
-
----
-## 🌟 Let's Connect!
-
-<p align="center">
-  <a href="https://github.com/b21renu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/renu-bojja/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:renubojja.germany@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://renu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%239B59B6?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-</p>
 
 ---
 
