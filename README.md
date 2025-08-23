@@ -13,21 +13,7 @@
   <a href="https://renu-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%239B59B6?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-</p> 
----
-
-### 🚀 GitHub Stats:
-![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=b21renu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
-
----
-
-### 🔥 Streak Stats:
-[![Renu's GitHub Streak](https://streak-stats.demolab.com?user=b21renu&theme=radical)](https://git.io/streak-stats)
-
----
-
-### 📊 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b21renu&layout=compact&theme=radical)
+</p>
 
 ---
 
@@ -88,6 +74,20 @@
 
 ---
 
+### 🚀 GitHub Stats:
+![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=b21renu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
+
+---
+
+### 🔥 Streak Stats:
+[![Renu's GitHub Streak](https://streak-stats.demolab.com?user=b21renu&theme=radical)](https://git.io/streak-stats)
+
+---
+
+### 📊 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b21renu&layout=compact&theme=radical)
+
+---
 ### 📈 GITHUB CONTRIBUTION GRAPH:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b21renu&theme=synthwave-84&true&hide_border=true" />
