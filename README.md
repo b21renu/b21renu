@@ -18,8 +18,8 @@ Here's a glimpse of my activity and achievements.
   </a>
 </p> 
 
-PERSONAL MAIL ID : renubojja.germany@gmail.com
-RVU CLG MAIL ID : renub.btech22@rvu.edu.in
+#### PERSONAL MAIL ID : renubojja.germany@gmail.com    
+#### RVU CLG MAIL ID : renub.btech22@rvu.edu.in
 ---
 
 ### 🚀 GitHub Stats:
