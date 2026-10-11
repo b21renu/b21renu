@@ -24,7 +24,7 @@ I enjoy building software solutions and exploring how Artificial Intelligence an
 - 💻 Interested in software engineering, application development, and problem-solving.
 - 🤖 Passionate about AI, Machine Learning, and building intelligent applications.
 - ☁️ Familiar with cloud platforms including AWS, Microsoft Azure, and Google Cloud.
-- 🗄️ Interested in databases, SQL, and data-driven applications.
+<!-- - 🗄️ Interested in databases, SQL, and data-driven applications. -->
 - 📚 Continuously learning through hands-on projects and technical challenges.
 
 ---
@@ -67,13 +67,13 @@ I enjoy building software solutions and exploring how Artificial Intelligence an
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 My project work focuses primarily on Artificial Intelligence and Machine Learning, alongside software development and application building.
 
 <!-- Replace the examples below with your actual projects. -->
 
-### 🤖 AI / Machine Learning Project
+<!-- ### 🤖 AI / Machine Learning Project
 
 A project focused on applying AI or ML techniques to solve a practical problem. Add a concise description of the problem, your approach, and the outcome.
 
@@ -97,7 +97,7 @@ An application showcasing programming fundamentals, application logic, database 
 
 [View Project](YOUR_PROJECT_REPOSITORY_URL)
 
----
+--- -->
 
 ## 🎓 Education
 
