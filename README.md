@@ -61,18 +61,6 @@
   </tr>
 </table>
 
-<h3>☁️ Cloud & DevOps</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" width="55"/><br><b>AWS</b></td>
-    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=azure" width="55"/><br><b>Azure</b></td>
-    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="55"/><br><b>Docker</b></td>
-    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" width="55"/><br><b>GitHub Actions</b></td>
-    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="55"/><br><b>Git</b></td>
-    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=harness" width="55"/><br><b>Harness</b></td>
-  </tr>
-</table>
-
 <h3>📊 Data Engineering & Analytics</h3>
 <table align="center">
   <tr>
@@ -80,6 +68,19 @@
     <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=databricks" width="55"/><br><b>Databricks</b></td>
   </tr>
 </table>
+
+<h3>☁️ Cloud, DevOps & Version Control</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" width="55"/><br><b>AWS</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=azure" width="55"/><br><b>Azure</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="55"/><br><b>Docker</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" width="55"/><br><b>GitHub Actions</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=harness" width="55"/><br><b>Harness</b></td>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="55"/><br><b>Git</b></td>
+  </tr>
+</table>
+
 
 ---
 
