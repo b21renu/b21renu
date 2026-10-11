@@ -88,7 +88,13 @@
 ---
 
 ### 🚀 GitHub Stats:
-![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=b21renu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/b21renu">
+    <img src="https://streak-stats.demolab.com/?user=b21renu&theme=synthwave&hide_border=true" alt="GitHub Contribution Streak"/>
+  </a>
+</div>
+
+<!-- ![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=b21renu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical) -->
 
 ---
 
@@ -103,14 +109,8 @@
 ---
 ### 📈 GITHUB CONTRIBUTION GRAPH
 <div align="center">
-  <a href="https://github.com/b21renu">
-    <img src="https://streak-stats.demolab.com/?user=b21renu&theme=synthwave&hide_border=true" alt="GitHub Contribution Streak"/>
-  </a>
-</div>
-<!-- <div align="center">
   <img src="https://ghchart.xqsit94.in/dark:2ea043/b21renu" alt="GitHub Contribution Graph" width="100%" />
-</div> -->
-
+</div>
 
 💌 **Always open to tech discussions, collaborations, or just a friendly hello!**  
 Feel free to explore my repositories and contributions, and let's build something awesome together!
