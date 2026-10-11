@@ -103,7 +103,7 @@
 ---
 ### 📈 GITHUB CONTRIBUTION GRAPH
 <div align="center">
-  <img src="https://ghchart.rshah.org/2ea043/b21renu" alt="GitHub Contribution Graph" width="100%"/>
+  <img src="https://ghchart.xqsit94.in/dark:2ea043/b21renu" alt="GitHub Contribution Graph" width="100%" />
 </div>
 ---
 
