@@ -103,9 +103,8 @@
 ---
 ### 📈 GITHUB CONTRIBUTION GRAPH:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b21renu&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b21renu&theme=react-dark&hide_border=true" />
 </div>
-
 ---
 
 💌 **Always open to tech discussions, collaborations, or just a friendly hello!**  
