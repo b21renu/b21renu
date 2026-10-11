@@ -55,6 +55,7 @@
 <h3>🗄️ Databases</h3>
 <table align="center">
   <tr>
+    <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="55"/><br><b>SQL</b></td>
     <td align="center" width="90"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="55"/><br><b>MongoDB</b></td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" width="90"/><br><b>SQLite</b></td>
     <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="45"/><br><b>Supabase</b></td>
