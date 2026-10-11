@@ -24,8 +24,9 @@ I enjoy building software solutions and exploring how Artificial Intelligence an
 - 💻 Interested in software engineering, application development, and problem-solving.
 - 🤖 Passionate about AI, Machine Learning, and building intelligent applications.
 - ☁️ Familiar with cloud platforms including AWS, Microsoft Azure, and Google Cloud.
-<!-- - 🗄️ Interested in databases, SQL, and data-driven applications. -->
 - 📚 Continuously learning through hands-on projects and technical challenges.
+<!-- - 🗄️ Interested in databases, SQL, and data-driven applications. -->
+
 
 ---
 
