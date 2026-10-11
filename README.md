@@ -110,7 +110,7 @@ Areas of study and interest:
 - Artificial Intelligence and Machine Learning
 - Cloud Computing — AWS, Azure, and GCP
 - Programming and Software Development
-- Data Management and SQL
+<!-- Data Management and SQL -->
 
 ---
 
