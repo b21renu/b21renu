@@ -101,9 +101,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b21renu&layout=compact&theme=radical)
 
 ---
-### 🔥 GITHUB CONTRIBUTION STREAK
+### 📈 GITHUB CONTRIBUTION GRAPH
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=b21renu&theme=synthwave&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b21renu&bg_color=0d1117&color=c9d1d9&line=2ea043&point=2ea043&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 ---
 
