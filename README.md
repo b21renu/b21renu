@@ -93,7 +93,7 @@
 ---
 
 ### 🔥 Streak Stats:
-<div align="center">
+<div align="left">
   <a href="https://github.com/b21renu">
     <img src="https://streak-stats.demolab.com/?user=b21renu&theme=synthwave&hide_border=true" alt="GitHub Contribution Streak"/>
   </a>
