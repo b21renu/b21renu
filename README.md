@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Renu Bojja
 
 ### HOW TO REACH ME !! 🌟
-#### PERSONAL MAIL ID : renubojja.germany@gmail.com    
-#### RVU CLG MAIL ID : renub.btech22@rvu.edu.in
+#### MAIL ID : renubojja.germany@gmail.com    
 <p align="center">
   <a href="https://github.com/b21renu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
