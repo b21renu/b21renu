@@ -103,8 +103,13 @@
 ---
 ### 📈 GITHUB CONTRIBUTION GRAPH
 <div align="center">
-  <img src="https://ghchart.xqsit94.in/dark:2ea043/b21renu" alt="GitHub Contribution Graph" width="100%" />
+  <a href="https://github.com/b21renu">
+    <img src="https://streak-stats.demolab.com/?user=b21renu&theme=synthwave&hide_border=true" alt="GitHub Contribution Streak"/>
+  </a>
 </div>
+<!-- <div align="center">
+  <img src="https://ghchart.xqsit94.in/dark:2ea043/b21renu" alt="GitHub Contribution Graph" width="100%" />
+</div> -->
 
 
 💌 **Always open to tech discussions, collaborations, or just a friendly hello!**  
