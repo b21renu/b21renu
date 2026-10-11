@@ -88,18 +88,17 @@
 ---
 
 ### 🚀 GitHub Stats:
+![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=b21renu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
+
+---
+
+### 🔥 Streak Stats:
 <div align="center">
   <a href="https://github.com/b21renu">
     <img src="https://streak-stats.demolab.com/?user=b21renu&theme=synthwave&hide_border=true" alt="GitHub Contribution Streak"/>
   </a>
 </div>
-
-<!-- ![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=b21renu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical) -->
-
----
-
-### 🔥 Streak Stats:
-[![Renu's GitHub Streak](https://streak-stats.demolab.com?user=b21renu&theme=radical)](https://git.io/streak-stats)
+<!-- [![Renu's GitHub Streak](https://streak-stats.demolab.com?user=b21renu&theme=radical)](https://git.io/streak-stats) -->
 
 ---
 
